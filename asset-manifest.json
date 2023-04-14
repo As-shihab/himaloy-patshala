@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/http//Asshihab7878.github.io/himaloy-patshala/static/css/main.44854080.css",
+    "main.js": "/http//Asshihab7878.github.io/himaloy-patshala/static/js/main.adb3772f.js",
+    "static/media/Home.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/Home.54e9c01a1b618999a411.jpg",
+    "static/media/slider3.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider3.cb762747a01582ac4f2c.jpg",
+    "static/media/slider2.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider2.f0f2504ebb9428c6334e.jpg",
+    "static/media/slider1.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider1.b6a90d82fe8872029e53.jpg",
+    "static/media/slider4.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider4.4b7091f248233594364f.jpg",
+    "static/media/logo.webp": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/logo.56f490ffb4a0013f2f0a.webp",
+    "index.html": "/http//Asshihab7878.github.io/himaloy-patshala/index.html",
+    "main.44854080.css.map": "/http//Asshihab7878.github.io/himaloy-patshala/static/css/main.44854080.css.map",
+    "main.adb3772f.js.map": "/http//Asshihab7878.github.io/himaloy-patshala/static/js/main.adb3772f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44854080.css",
+    "static/js/main.adb3772f.js"
+  ]
+}
