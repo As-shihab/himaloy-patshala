@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    width: 100%;
+
+    box-shadow: 1px 1px 8px 1px #ddd;
+
+}
+header nav .active{
+ color: white !important;
+    border-radius: 30px;
+    background: #000;
+
+
+}header nav .nav-link{
+padding: 9px 21px;
+margin: 0px 5px;
+text-decoration: none;
+font-weight: bold;
+color: black;
+
+
+}
+header div .nav-link{
+    background: rgb(0, 81, 255);
+    color:white;
+    border-radius: 30px;
+    padding: 8px 27px;
+    text-decoration: none;
+}
+
+header .logo_cotainer {
+    width: 100px;
+    height: auto;
+}
+header .logo_cotainer img{
+    width: 100%;
+}
