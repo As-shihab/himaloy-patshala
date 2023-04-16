@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/http//Asshihab7878.github.io/himaloy-patshala/static/css/main.44854080.css",
-    "main.js": "/http//Asshihab7878.github.io/himaloy-patshala/static/js/main.adb3772f.js",
-    "static/media/Home.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/Home.54e9c01a1b618999a411.jpg",
-    "static/media/slider3.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider3.cb762747a01582ac4f2c.jpg",
-    "static/media/slider2.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider2.f0f2504ebb9428c6334e.jpg",
-    "static/media/slider1.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider1.b6a90d82fe8872029e53.jpg",
-    "static/media/slider4.jpg": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/slider4.4b7091f248233594364f.jpg",
-    "static/media/logo.webp": "/http//Asshihab7878.github.io/himaloy-patshala/static/media/logo.56f490ffb4a0013f2f0a.webp",
-    "index.html": "/http//Asshihab7878.github.io/himaloy-patshala/index.html",
-    "main.44854080.css.map": "/http//Asshihab7878.github.io/himaloy-patshala/static/css/main.44854080.css.map",
-    "main.adb3772f.js.map": "/http//Asshihab7878.github.io/himaloy-patshala/static/js/main.adb3772f.js.map"
+    "main.css": "/Asshihab7878/github.io/Himaloy/static/css/main.415f6363.css",
+    "main.js": "/Asshihab7878/github.io/Himaloy/static/js/main.ea15cf53.js",
+    "static/media/Home.jpg": "/Asshihab7878/github.io/Himaloy/static/media/Home.54e9c01a1b618999a411.jpg",
+    "static/media/neon.jpg": "/Asshihab7878/github.io/Himaloy/static/media/neon.3572dac08ba824a0f97d.jpg",
+    "static/media/sir4.jpeg": "/Asshihab7878/github.io/Himaloy/static/media/sir4.b1ceb1e99a33491d9f5f.jpeg",
+    "static/media/sir3.jpeg": "/Asshihab7878/github.io/Himaloy/static/media/sir3.a99b6b3037e1a8aa1e38.jpeg",
+    "static/media/sir1.jpeg": "/Asshihab7878/github.io/Himaloy/static/media/sir1.1205f89e7259eec44a09.jpeg",
+    "static/media/sir2.jpeg": "/Asshihab7878/github.io/Himaloy/static/media/sir2.c16ddc55920fcc08b53a.jpeg",
+    "static/media/logo.webp": "/Asshihab7878/github.io/Himaloy/static/media/logo.56f490ffb4a0013f2f0a.webp",
+    "index.html": "/Asshihab7878/github.io/Himaloy/index.html",
+    "main.415f6363.css.map": "/Asshihab7878/github.io/Himaloy/static/css/main.415f6363.css.map",
+    "main.ea15cf53.js.map": "/Asshihab7878/github.io/Himaloy/static/js/main.ea15cf53.js.map"
   },
   "entrypoints": [
-    "static/css/main.44854080.css",
-    "static/js/main.adb3772f.js"
+    "static/css/main.415f6363.css",
+    "static/js/main.ea15cf53.js"
   ]
 }
